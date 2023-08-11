@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/dannyyaaj/dannyyaaj/5f282f722012aa06e601e708de7c7679dd6b4c98/src/assets/meteor.svg" alt="An intricate SVG hero image featuring meteors with lines and dynamic shapes, creating a sense of movement and energy against a transparent background.">
+
 ## Hi, I'm Danny Yang 👋
 
 <p><em>Software Developer</em></p>
